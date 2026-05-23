@@ -1,0 +1,6 @@
+{
+  "name": "TahaProd Estimate",
+  "description": "Interactive estimation client application for photo and video production services, keeping backend data shared with the web version.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
